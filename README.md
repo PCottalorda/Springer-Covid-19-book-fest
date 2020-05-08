@@ -4,7 +4,7 @@ This repository provides a Python 3 script that allows one to download all the b
 ## Prerequisite
 This python script requires the following packages that can be installed with pip through
 ```
-pip install pandas urllib3 bs4 typing argparse wget
+pip install pandas urllib3 bs4 typing argparse wget lxml
 ```
 
 ## Usage
